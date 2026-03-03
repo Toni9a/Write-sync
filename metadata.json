@@ -1,0 +1,7 @@
+{
+  "name": "Animated Handwritten Note",
+  "description": "An interactive web component that analyzes a handwritten note image and reveals it line-by-line with a smooth left-to-right writing animation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
